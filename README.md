@@ -1,6 +1,6 @@
-# frontend
+#  CMS Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the Frontend for the Jluna Custom CMS written in Vue 3 with Vite.
 
 ## Recommended IDE Setup
 
