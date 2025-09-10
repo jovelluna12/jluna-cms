@@ -1,3 +1,6 @@
+# 🚧 Jluna CMS — Work in Progress
+⚠️ **This project is currently under active development. It is not ready for production use.**
+
 #  CMS Frontend
 
 This is the Frontend for the Jluna Custom CMS written in Vue 3 with Vite.
